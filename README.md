@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vladimir.
 - 👀 I’m interested in programming and machine learning.
-- 🌱 I’m currently learning the Phyton.
+- 🌱 I’m currently learning the Python.
 - 💞️ I’m looking to collaborate on start of programming.
 - 📫 How to reach me? Through this website.
 
