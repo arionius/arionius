@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arionius
+- 👋 Hi, I’m Vladimir.
 - 👀 I’m interested in programming and machine learning.
 - 🌱 I’m currently learning the Phyton.
 - 💞️ I’m looking to collaborate on start of programming.
